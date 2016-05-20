@@ -1,0 +1,11 @@
+body {
+ padding-bottom: 20px;
+}
+.jumbotron {
+     text-align: center;
+       }
+
+.img-circle {
+  border: 5px solid #DAA520;
+  margin: 0 auto;
+}
